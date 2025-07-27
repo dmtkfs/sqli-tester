@@ -34,7 +34,6 @@ Designed for **education, CTFs, and authorized testing**. Supports reusing enume
 - [Licensing](#licensing)
 - [Attribution & Notes](#attribution--notes)
 - [Contributing](#contributing)
-- [Roadmap](#roadmap)
 
 ## Concept
 
